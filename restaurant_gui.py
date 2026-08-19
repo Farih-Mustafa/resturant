@@ -174,7 +174,7 @@ def show_chart_window():
         row = tk.Frame(content, bg="#FAFAFA", pady=15, highlightthickness=1, highlightbackground="#EEE")
         row.pack(fill="x", padx=20, pady=8)
 
-        # Image in Chart
+        # image in chart
         try:
             c_img = Image.open(item["img"]).resize((100, 60), Image.Resampling.LANCZOS)
             c_photo = ImageTk.PhotoImage(c_img)

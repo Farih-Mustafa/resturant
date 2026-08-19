@@ -46,7 +46,7 @@ def calculate_total_dp(arr, n):
     memo[n] = arr[n]['price'] + calculate_total_dp(arr, n - 1)
     return memo[n]
 
-# --- CORE LOGIC ---
+# CORE LOGIC
 
 def save_to_order_file(item):
     """Saves added item to order.json"""
@@ -70,7 +70,7 @@ def start_app():
     tk.Label(top, text="FRESH RESTAURANT", fg="white", bg="#2E7D32", font=("Arial", 18, "bold")).pack(side="left", padx=20)
     tk.Button(top, text="🛒 MY CHART", font=("Arial", 10, "bold"), command=show_chart_window).pack(side="right", padx=20)
 
-    # Scrollable Menu
+    #Scrollable Menu
     canvas = tk.Canvas(root, bg="#F9FBF9", highlightthickness=0)
     scroll = tk.Scrollbar(root, command=canvas.yview)
     frame = tk.Frame(canvas, bg="#F9FBF9")
