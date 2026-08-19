@@ -1,0 +1,29 @@
+{
+  "Breakfast 🍳": [
+    {"name": "Oatmeal with Fruits", "price": 10, "calories": 250, "protein": 8, "ingredients": ["oats", "milk", "banana", "berries"], "img": "best-dish.jpeg"},
+    {"name": "Vegetable Omelette", "price": 7, "calories": 200, "protein": 12, "ingredients": ["eggs", "tomato", "spinach", "bell pepper"], "img": "egg.jpeg"},
+    {"name": "Pancakes", "price": 5, "calories": 50, "protein": 6, "ingredients": ["flour", "milk", "egg", "honey"], "img": "pancake.jpeg"},
+    {"name": "Egg Croissant", "price": 6, "calories": 280, "protein": 9, "ingredients": ["egg", "croissant", "butter"], "img": "sandwich.jpeg"}
+  ],
+
+  "Lunch 🍱": [
+    {"name": "Grilled Chicken Salad", "price": 50, "calories": 350, "protein": 30, "ingredients": ["chicken", "lettuce", "tomato", "cucumber"], "img": "meat-salad.jpeg"},
+    {"name": "Rice with Grilled Fish", "price": 40, "calories": 400, "protein": 28, "ingredients": ["rice", "fish", "olive oil", "lemon"], "img": "fish.jpeg"},
+    {"name": "Spaghetti with Meatballs", "price": 25, "calories": 500, "protein": 25, "ingredients": ["spaghetti", "beef meatballs", "tomato sauce"], "img": "spageti.jpeg"},
+    {"name": "Sushi", "price": 60, "calories": 300, "protein": 20, "ingredients": ["rice", "salmon", "nori", "avocado"], "img": "sushi.jpeg"}
+  ],
+
+  "Dinner 🥩": [
+    {"name": "Shrimp with Garlic & Veggies", "price": 45, "calories": 350, "protein": 28, "ingredients": ["shrimp", "garlic", "broccoli", "carrots", "bell pepper"], "img": "chips-brokli.jpeg"},
+    {"name": "Garlic Mushrooms Steak", "price": 35, "calories": 450, "protein": 35, "ingredients": ["beef steak", "mushrooms", "garlic", "olive oil"], "img": "fish.jpeg"},
+    {"name": "Caesar Salad with Grilled Chicken", "price": 60, "calories": 400, "protein": 30, "ingredients": ["lettuce", "grilled chicken", "parmesan", "croutons", "caesar dressing"], "img": "salad.jpeg"},
+    {"name": "Lentil Soup", "price": 10, "calories": 250, "protein": 12, "ingredients": ["lentils", "carrots", "onion", "celery", "garlic"], "img": "soup.jpeg"}
+  ],
+  
+  "Dessert 🍰": [
+    {"name": "Fruit Salad", "price": 15, "calories": 150, "protein": 2, "ingredients": ["apple", "banana", "berries", "orange"], "img": "ftuit-salad.jpeg"},
+    {"name": "Chia Chocolate Pudding", "price": 6, "calories": 200, "protein": 6, "ingredients": ["chia seeds", "cocoa powder", "almond milk", "honey"], "img": "fruit-choclate.jpeg"},
+    {"name": "Ice Cream", "price": 4, "calories": 250, "protein": 4, "ingredients": ["milk", "cream", "sugar"], "img": "healthy-ice.jpeg"},
+    {"name": "Cheesecake", "price": 10, "calories": 350, "protein": 6, "ingredients": ["cream cheese", "sugar", "eggs", "crust"], "img": "healthy-food.jpeg"}
+  ]
+}

@@ -1,0 +1,129 @@
+{
+    "farih": [],
+    "fatima": [
+        {
+            "name": "Vegetable Omelette",
+            "price": 85,
+            "calories": 200,
+            "protein": 12,
+            "ingredients": [
+                "eggs",
+                "tomato",
+                "spinach",
+                "bell pepper"
+            ],
+            "img": "egg.jpeg"
+        }
+    ],
+    "angosom": [
+        {
+            "name": "Oatmeal with Fruits",
+            "price": 100,
+            "calories": 250,
+            "protein": 8,
+            "ingredients": [
+                "oats",
+                "milk",
+                "banana",
+                "berries"
+            ],
+            "img": "best-dish.jpeg"
+        },
+        {
+            "name": "Vegetable Omelette",
+            "price": 85,
+            "calories": 200,
+            "protein": 12,
+            "ingredients": [
+                "eggs",
+                "tomato",
+                "spinach",
+                "bell pepper"
+            ],
+            "img": "egg.jpeg"
+        }
+    ],
+    "fafi": [
+        {
+            "name": "Spaghetti with Meatballs",
+            "price": 150,
+            "calories": 500,
+            "protein": 25,
+            "ingredients": [
+                "spaghetti",
+                "beef meatballs",
+                "tomato sauce"
+            ],
+            "img": "spageti.jpeg"
+        },
+        {
+            "name": "Ice Cream",
+            "price": 50,
+            "calories": 250,
+            "protein": 4,
+            "ingredients": [
+                "milk",
+                "cream",
+                "sugar"
+            ],
+            "img": "healthy-ice.jpeg"
+        }
+    ],
+    "mohamed": [
+        {
+            "name": "Vegetable Omelette",
+            "price": 7,
+            "calories": 200,
+            "protein": 12,
+            "ingredients": [
+                "eggs",
+                "tomato",
+                "spinach",
+                "bell pepper"
+            ],
+            "img": "egg.jpeg"
+        },
+        {
+            "name": "Rice with Grilled Fish",
+            "price": 40,
+            "calories": 400,
+            "protein": 28,
+            "ingredients": [
+                "rice",
+                "fish",
+                "olive oil",
+                "lemon"
+            ],
+            "img": "fish.jpeg"
+        }
+    ],
+    "mikal": [],
+    "fadega": [
+        {
+            "name": "Oatmeal with Fruits",
+            "price": 10,
+            "calories": 250,
+            "protein": 8,
+            "ingredients": [
+                "oats",
+                "milk",
+                "banana",
+                "berries"
+            ],
+            "img": "best-dish.jpeg"
+        },
+        {
+            "name": "Rice with Grilled Fish",
+            "price": 40,
+            "calories": 400,
+            "protein": 28,
+            "ingredients": [
+                "rice",
+                "fish",
+                "olive oil",
+                "lemon"
+            ],
+            "img": "fish.jpeg"
+        }
+    ]
+}
