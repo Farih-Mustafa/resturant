@@ -27,7 +27,7 @@ MENU_DATA = {
     ]
 }
 
-# --- ALGORITHMS ---
+#  Sort ALGORITHMS 
 
 def quick_sort_orders(arr):
     """Sorts orders by price: O(n log n)"""
